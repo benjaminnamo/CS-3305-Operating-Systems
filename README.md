@@ -13,4 +13,6 @@ Assignment 2 - Pipe Management
 
 Assignment 3 - Thread Management
 
-Assignment 4 - Round Robin CPU Scheduling Algorithm
+Assignment 4 - Round Robin CPU Scheduling Algorithm Simulation
+
+Assignment 5 - Multi-Thread Banking Simulation
